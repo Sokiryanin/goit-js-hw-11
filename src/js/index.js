@@ -5,7 +5,6 @@ import 'simplelightbox/dist/simple-lightbox.min.css';
 import { refs } from './refs';
 import createCardMarkup from './card-markup';
 import clearMarkup from './clear-gallery';
-// import scroll from './scroll';
 import fetchImg from './fetch';
 
 let gallery = new SimpleLightbox('.gallery a');
